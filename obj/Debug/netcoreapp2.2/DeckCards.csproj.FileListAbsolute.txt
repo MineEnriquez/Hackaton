@@ -1,0 +1,11 @@
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\obj\Debug\netcoreapp2.2\DeckCards.csprojAssemblyReference.cache
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\obj\Debug\netcoreapp2.2\DeckCards.csproj.CoreCompileInputs.cache
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\obj\Debug\netcoreapp2.2\DeckCards.AssemblyInfoInputs.cache
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\obj\Debug\netcoreapp2.2\DeckCards.AssemblyInfo.cs
+C:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\bin\Debug\netcoreapp2.2\DeckCards.deps.json
+C:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\bin\Debug\netcoreapp2.2\DeckCards.runtimeconfig.json
+C:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\bin\Debug\netcoreapp2.2\DeckCards.runtimeconfig.dev.json
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\bin\Debug\netcoreapp2.2\DeckCards.dll
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\bin\Debug\netcoreapp2.2\DeckCards.pdb
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\obj\Debug\netcoreapp2.2\DeckCards.dll
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\DeckCards\obj\Debug\netcoreapp2.2\DeckCards.pdb
